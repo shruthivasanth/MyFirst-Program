@@ -1,2 +1,2 @@
-# MyFirst-Program
+C PROGRAMMING
 the program about shapes
